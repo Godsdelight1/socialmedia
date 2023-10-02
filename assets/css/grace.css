@@ -75,14 +75,14 @@ img {
   margin-bottom: 20px;
   background-color: hsl(300, 43%, 22%);
 }
-.review {
-  width: 25%;
-}
 
 @media (min-width: 960px) {
   .secondpart {
     display: flex;
     justify-content: space-between;
+  }
+  .review {
+    width: 25%;
   }
 }
 
